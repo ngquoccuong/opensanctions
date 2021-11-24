@@ -24,7 +24,7 @@
     "rehype-stringify": "8.0.0",
     "remark": "^13.0.0",
     "remark-heading-id": "^1.0.0",
-    "remark-parse": "^9.0.0",
+    "remark-parse": "^10.0.1",
     "remark-rehype": "8.1.0",
     "sass": "^1.43.4",
     "unified": "9.2.2"
