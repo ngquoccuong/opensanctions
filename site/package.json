@@ -27,7 +27,7 @@
     "remark-parse": "^9.0.0",
     "remark-rehype": "8.1.0",
     "sass": "^1.43.4",
-    "unified": "9.2.2"
+    "unified": "10.1.2"
   },
   "devDependencies": {
     "@types/react": "17.0.33",
